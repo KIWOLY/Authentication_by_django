@@ -1,5 +1,5 @@
 
-# Django & Django REST Framework Authentication Project
+# Django & Django REST Framework Authentication Project .
 
 This project is a **comprehensive guide to authentication** in Django and Django REST Framework (DRF). It is designed to help you learn, compare, and implement different authentication methods in a single project.
 
