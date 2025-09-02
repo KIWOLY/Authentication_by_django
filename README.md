@@ -5,7 +5,7 @@ This project is a **comprehensive guide to authentication** in Django and Django
 
 ---
 
-## 🔑 What You’ll Learn
+## What You’ll Learn
 
 This project covers:
 
