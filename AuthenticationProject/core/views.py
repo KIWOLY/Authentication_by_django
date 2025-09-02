@@ -127,7 +127,7 @@ def ForgotPassword(request):
                       <a href="{full_password_reset_url}" 
                          style="display: inline-block; background-color: #0b0b2d; color: white; 
                                 padding: 14px 28px; text-decoration: none; font-size: 16px; 
-                                border-radius: 4px; font-weight: bold;">
+                                border-radius: 6px; font-weight: bold;">
                         Change your password
                       </a>
                     </p>
