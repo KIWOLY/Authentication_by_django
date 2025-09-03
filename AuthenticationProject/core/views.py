@@ -110,7 +110,7 @@ def ForgotPassword(request):
                     </p>
 
                     <!-- You can replace this with your logo -->
-                    <h2 style="font-weight: bold; font-size: 26px; margin: 20px 0;">Your new password</h2>
+                    <h2 style="font-weight: bold; font-size: 24px; margin: 20px 0;">Your new password</h2>
                      
 
                     <p style="font-size: 16px; margin: 10px 0;">Dear {user.username},</p>
