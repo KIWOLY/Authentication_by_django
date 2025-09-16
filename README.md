@@ -132,5 +132,5 @@ By completing this project, you will:
 
 ## 📜 License
 
-This project is free to use for learning and development.
+This project is free to use for learning .
 
