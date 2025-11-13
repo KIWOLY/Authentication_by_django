@@ -130,7 +130,7 @@ By completing this project, you will:
 
 
 
-## 📜 License
+##  License
 
 This project is free to use for learning .
 
