@@ -3,7 +3,7 @@
 
 This project is a **comprehensive guide to authentication** in Django and Django REST Framework (DRF). It is designed to help you learn, compare, and implement different authentication methods in a single project.
 
----
+
 
 ## What You’ll Learn
 
@@ -33,9 +33,9 @@ This project covers:
    * Provides better scalability for APIs.
    * Supports token rotation and blacklisting for extra security.
 
----
 
-## 🧱 Tools & Technologies
+
+##  Tools & Technologies
 
 * **Django**: For session-based authentication and project management.
 * **Django REST Framework (DRF)**: For building APIs.
@@ -44,9 +44,9 @@ This project covers:
 * **SimpleJWT**: For JWT access and refresh tokens.
 * **CORS Headers**: To allow frontend apps (React, Flutter, etc.) to connect.
 
----
 
-## 📂 Project Overview
+
+##  Project Overview
 
 The project is organized so you can explore each authentication method separately while using the same user system. It includes:
 
@@ -55,9 +55,9 @@ The project is organized so you can explore each authentication method separatel
 * **API endpoints for token authentication** where users request a token and then access secure endpoints.
 * **API endpoints for JWT authentication** where users log in and get access/refresh tokens.
 
----
 
-## 🔐 Authentication Methods Explained
+
+##  Authentication Methods Explained
 
 ### 1) Session-Based Authentication
 
@@ -89,9 +89,9 @@ The project is organized so you can explore each authentication method separatel
 * Supports **blacklisting** and **token rotation** for better security.
 * Best for modern APIs and mobile applications.
 
----
 
-## 🔒 Security Practices
+
+##  Security Practices
 
 * Always use **HTTPS** in production.
 * Enable **CSRF protection** when using session-based authentication.
@@ -99,18 +99,18 @@ The project is organized so you can explore each authentication method separatel
 * Keep secret keys, OAuth credentials, and tokens in a **.env file**.
 * Consider adding **rate limiting or login attempt limits** to prevent brute-force attacks.
 
----
 
-## 🌍 Use Cases
+
+##  Use Cases
 
 * **Session Authentication** → Ideal for Django Admin or websites where users log in via browser.
 * **Google OAuth** → Perfect for fast onboarding using existing Google accounts.
 * **Token Authentication** → Useful for small-scale APIs or mobile apps where token management is simple.
 * **JWT Authentication** → Best for scalable APIs, mobile apps, and systems requiring refresh token flows.
 
----
 
-## 📖 Learning Outcomes
+
+##  Learning Outcomes
 
 By completing this project, you will:
 
@@ -119,16 +119,16 @@ By completing this project, you will:
 * Learn how to secure APIs with different authentication methods.
 * Gain hands-on experience setting up authentication workflows in Django and DRF.
 
----
 
-## 🧭 Next Steps
+
+##  Next Steps
 
 * Add **registration and password reset flows**.
 * Integrate **role-based access control** (e.g., admin vs user permissions).
 * Connect with a frontend (React, Vue, Flutter) to practice cross-origin authentication.
 * Deploy the project to production with proper security settings.
 
----
+
 
 ## 📜 License
 
