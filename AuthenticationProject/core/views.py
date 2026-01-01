@@ -42,7 +42,7 @@ def RegisterView(request):
         if user_data_has_error:
             return redirect('register')
 
-        # Create user if no errors
+     
         new_user = User.objects.create_user(
             first_name=first_name,
             last_name=last_name,
